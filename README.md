@@ -1,10 +1,10 @@
 # Neural Mirror 
 
-A  mirror  where people look into a camera and the display renders their image in different  hallucinations and styles using artificial neural networks. Each AI rendered image represents a different emotional state that the person sees themselves through: anger, sadness, shock,disgust, using different colors ,styles, and hallucinations.  
+A mirror where people look into a camera and the display renders their image in different  hallucinations and styles using artificial neural networks. Each AI rendered image represents a different emotional state that the person sees themselves through: anger, sadness, shock,disgust, using different colors ,styles, and hallucinations.  
 
 
 ##Built With
-Processing,tensorflow via API, and a webcam where the main tools used to build this.
+Processing,tensorflow via API, and a webcam were the main tools used to build this.
 
 I worked on and displayed this during my residency at SFPC.
 
